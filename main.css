@@ -1,0 +1,82 @@
+body{
+    background-image: url(images/backround.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+h1{
+    text-align: center;
+    font-family: 'Indie Flower',cursive;
+    font-size: 40px;
+}
+
+#box1{
+    width:1150px;
+    height:100px;
+    margin-left: 80px;
+    border-radius: 0px;
+    box-shadow: 0 0 15px 0px #000;
+    background-color: rgba(0,0,0,0);
+    margin-bottom: 30px;
+    margin-top: 5px;
+}
+
+#main_body { 
+    width:1050px;
+    margin-left: 140px;
+    box-shadow: 0 0 15px 2px #666;
+    background-color: rgba(0,0,0 ,0.5);
+    background-image: url(images/18.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    margin-top: 30px;
+    padding-left: 50px;
+    padding-right: 0;
+    border-style: double; /* 3.e border style*/
+
+}
+
+#iit{
+    position: absolute;
+    margin-left: 900px;
+}
+
+#uow{
+    position: absolute;
+    margin-left: -70px;
+    margin-top: -40px;
+}
+
+h2{
+    position: absolute; 
+    text-align: center;
+    margin-left: 350px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+h3{
+    position: absolute;
+    text-align: center;
+    margin-left: 450px;
+    margin-top: 50px;
+}
+
+#topic{
+    text-align: center;
+    margin-left: 300px;
+    color: #fff;
+}
+
+#box{
+    margin-left: 60px;
+    padding-top: 10px;
+    margin-top: 40px;
+}
+
+footer{
+    text-align: center;
+    color: aliceblue;
+}
